@@ -4,10 +4,10 @@
 
 ### Step1 :- Learning the Python
 
-* [https://automatetheboringstuff.com/]Automte the boaring stuff with python
+* [https://automatetheboringstuff.com/] Automte the boaring stuff with python
 
 
 ### Papers 
 
-* going through this link [\papers.md] 
+* going through this link [https://github.com/kartikeyshaurya/The-GoldMine-for--Data-Science--A.I--ML-/blob/master/papers.md] 
 
