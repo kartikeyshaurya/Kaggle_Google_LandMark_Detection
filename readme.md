@@ -4,6 +4,10 @@ Reinforcement Learning have the following main parts <br>
 
 ## [1] Getting to know the RL <br>
 
+<<<<<<< HEAD
+=======
+* [https://automatetheboringstuff.com/] Automte the boaring stuff with python
+>>>>>>> a0b00063ff7d875c18cdafd6c2fde379c0138d54
 
 -----------------------------------------
 ## [2] The RL Framework:The Framework <br>
@@ -11,8 +15,12 @@ Reinforcement Learning have the following main parts <br>
 -----------------------------------------
 ## [3] The RL Framework:The Solution <br>
 
+<<<<<<< HEAD
 -----------------------------------------
 ## [4] Monto Carlo Methods <br>
+=======
+* going through this link [https://github.com/kartikeyshaurya/The-GoldMine-for--Data-Science--A.I--ML-/blob/master/papers.md] 
+>>>>>>> a0b00063ff7d875c18cdafd6c2fde379c0138d54
 
 -----------------------------------------
 ## [5] Temporal-difference Methods <br>
