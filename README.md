@@ -1,5 +1,8 @@
 # Google Smartphone Decimeter Challenge
 
+## Motivation
+* Mainy the High Precision smartphone positioning is helpful for many novel application such as geo-surveying , Entertaining Precision agriculture , Precise AR and Etc .
+* But i was working on [autonomous delivery system](https://github.com/kartikeyshaurya/DistroBot) and the robots will be small and we required the precise geolocation of the robot to map the lane and also moniter the traffic and other application.
 
 ## Overview of the Challenge 
 
@@ -15,3 +18,8 @@ we have to precisely locate down the  location and Use Gps data and Increase Acc
 
 
 #  Data 
+
+[paper on the Data ](https://www.kaggle.com/google/android-smartphones-high-accuracy-datasets?select=ION+GNSS+2020+Android+Raw+GNSS+Measurement+Datasets+for+Precise+Positioning.pdf)
+
+
+## Directories   
